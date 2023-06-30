@@ -1,4 +1,4 @@
-# 💫 About Me:
+![image](https://github.com/Aberossyverio/Aberossyverio/assets/94156647/887c6baf-20bb-4f22-989f-7a39a1906f84)# 💫 About Me:
 UI & UX Enthusiast || Junior Frontend Developer || Undergraduate Computer Science Student at Matana University
 
 
@@ -19,7 +19,7 @@ UI & UX Enthusiast || Junior Frontend Developer || Undergraduate Computer Scienc
 ![](https://github-contributor-stats.vercel.app/api?username=Aberossyverio&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
 ### 😂 Random Dev Meme
-<img src="https://rm.up.railway.app/" width="512px"/>
+<img src="https://i.chzbgr.com/full/9590262784/hF0682E29/dev-7-years-also-googlecomsearchq-addcsshtmlriz1c1chbf_e-ogle-add-css-html-q-all-d-videos-images" width="512px"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Aberossyverio&icon=2&color=8)](https://visitcount.itsvg.in)
