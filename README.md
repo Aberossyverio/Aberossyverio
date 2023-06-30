@@ -1,4 +1,4 @@
-![image](https://github.com/Aberossyverio/Aberossyverio/assets/94156647/887c6baf-20bb-4f22-989f-7a39a1906f84)# 💫 About Me:
+# 💫 About Me:
 UI & UX Enthusiast || Junior Frontend Developer || Undergraduate Computer Science Student at Matana University
 
 
