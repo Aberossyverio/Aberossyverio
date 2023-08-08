@@ -1,5 +1,5 @@
 # 💫 About Me:
-UI & UX Enthusiast || Junior Frontend Developer || Undergraduate Computer Science Student at Matana University
+UI & UX Enthusiast || Junior Frontend Developer || Undergraduate Computer Science Student 
 
 
 ## 🌐 Socials:
